@@ -1,0 +1,50 @@
+{
+    "X_train_con_outliers.xlsx": [
+        "age",
+        "sex",
+        "bmi",
+        "children",
+        "smoker",
+        "region"
+    ],
+    "X_train_sin_outliers.xlsx": [
+        "age",
+        "sex",
+        "bmi",
+        "children",
+        "smoker",
+        "region"
+    ],
+    "X_train_con_outliers_norm.xlsx": [
+        "age",
+        "sex",
+        "bmi",
+        "children",
+        "smoker",
+        "region"
+    ],
+    "X_train_sin_outliers_norm.xlsx": [
+        "age",
+        "sex",
+        "bmi",
+        "children",
+        "smoker",
+        "region"
+    ],
+    "X_train_con_outliers_scal.xlsx": [
+        "age",
+        "sex",
+        "bmi",
+        "children",
+        "smoker",
+        "region"
+    ],
+    "X_train_sin_outliers_scal.xlsx": [
+        "age",
+        "sex",
+        "bmi",
+        "children",
+        "smoker",
+        "region"
+    ]
+}
